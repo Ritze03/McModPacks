@@ -1,2 +1,30 @@
 # Category | ModName | DownloadURL | SHA256
-REQUIRED|RemoveLoadingScreen.4.0.6.1.jar|https://cdn.modrinth.com/data/ZP7xHXtw/versions/VHNE9K3D/rrls-4.0.6.1%2Bmc1.20.1-fabric.jar|da477c897a8bc0e080aa1e00b813c1d4bba26af80be2dbda10afd12a0ca40115
+
+# ### Update 20.01.2026
+# Updates
+REMOVE|mcw-furniture-3.3.0-mc1.20.1fabric.jar||
+REMOVE|mcw-fences-1.2.0-1.20.1fabric.jar||
+REMOVE|mcw-lights-1.1.2-mc1.20.1fabric.jar||
+REMOVE|mcw-stairs-1.0.1-1.20.1fabric.jar||
+REMOVE|mcw-trapdoors-1.1.4-mc1.20.1fabric.jar||
+REMOVE|mcw-windows-2.4.0-1.20.1fabric.jar||
+
+REQUIRED|Macaws-Furniture-3.4.1.jar|https://cdn.modrinth.com/data/dtWC90iB/versions/Pv6Czgi4/mcw-furniture-3.4.1-mc1.20.1fabric.jar|b0fb123b9fcc5fc6a4d6f432bbcd0689da2484fcc6c86372171f46638f7fc732
+REQUIRED|Macaws-Fences-1.2.1.jar|https://cdn.modrinth.com/data/GmwLse2I/versions/bL1sIm2E/mcw-mcwfences-1.2.1-mc1.20.1fabric.jar|0d9e4b03246de9364b85adfce6fee3354a31f822aec1bca2c8306ebbe09a89c8
+REQUIRED|Macaws-Lights-1.1.5.jar|https://cdn.modrinth.com/data/w4an97C2/versions/H7VSU9EX/mcw-lights-1.1.5-mc1.20.1fabric.jar|3b9a152fdb94c79f7fdfe2502f514ad9d289c66340d412a5081dfa8bb3f8d3cf
+REQUIRED|Macaws-Stairs-1.0.2.jar|https://cdn.modrinth.com/data/iP3wH1ha/versions/zg1JyUwM/mcw-mcwstairs-1.0.2-mc1.20.1fabric.jar|ec8c1529f746cb46a55bd3c5a4974da6c8c720deabd45620ebc014e5b3c7d99e
+REQUIRED|Macaws-Trapdoors-1.1.5.jar|https://cdn.modrinth.com/data/n2fvCDlM/versions/RFkzkDzn/mcw-trapdoors-1.1.5-mc1.20.1fabric.jar|5a709d84933d0add533898a33aaf1dfd898a021c650be54d5791ea067f3ba0ba
+REQUIRED|Macaws-Windows-2.4.2.jar|https://cdn.modrinth.com/data/C7I0BCni/versions/dGiIkdi3/mcw-mcwwindows-2.4.2-mc1.20.1fabric.jar|1cc53835b3a669aa15ec0845665401bf469999d7b307b4c8c22028a69d64f66e
+
+# New
+REQUIRED|Macaws-Path-and-Pavings-1.1.1.jar|https://cdn.modrinth.com/data/VRLhWB91/versions/hwnmaZHh/mcw-mcwpaths-1.1.1-mc1.20.1fabric.jar|5a462e3aa88a0fa21bf1be3ffece57928316128a8e29ccbb8db3d7c5276deb07
+REQUIRED|Macaws-Paintings-1.0.5.jar|https://cdn.modrinth.com/data/okE6QVAY/versions/CwHvP3Pz/mcw-paintings-1.0.5-1.20.1fabric.jar|6c0eda9fb3ded6d18679225c7e6a08752b0eaf40f44df329a580323b7dbffc7f
+REQUIRED|Craftable-Spawn-Eggs-1.0.1.jar|https://cdn.modrinth.com/data/lN3JvuAX/versions/IsFCWHYL/Craft-able%20Spawn%20Eggs%201.20.1.jar|718ccdafbbe33323b2a59fcf9ea42295ec25b07a91f63e4d1f1715f5caf4dfad
+REQUIRED|Rechiseled-1.1.6.jar|https://cdn.modrinth.com/data/B0g2vT6l/versions/UG6Mfv39/rechiseled-1.1.6-fabric-mc1.20.jar|d79bebeab019619089a6d97d4ef3c6db92c85df8016b2d5b7892d783d41c51c6
+REQUIRED|SuperMartijn642-CoreLib-1.1.19.jar|https://cdn.modrinth.com/data/rOUBggPv/versions/aV4XdJma/supermartijn642corelib-1.1.19-fabric-mc1.20.1.jar|127b6890e48edfd0fa161e8a55ed3751d67ae5f4bc199c6bd20bcda364402a5d
+REQUIRED|SuperMartijn642-ConfigLib-1.1.18a.jar|https://cdn.modrinth.com/data/LN9BxssP/versions/Ur02nrUT/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar|fe76c8cf001878109adbdd2f4ef877b76ddfdefdca91ff9b90353c2e8af8022c
+REQUIRED|Fusion-1.2.12.jar|https://cdn.modrinth.com/data/p19vrgc2/versions/uCMQtEFU/fusion-1.2.12-fabric-mc1.20.1.jar|cee7755d3a37dc8838c15ac420c3c745a437ba0713e7c4309139adf7f05a34af
+REQUIRED|Supplementaries-1.20.1.jar|https://cdn.modrinth.com/data/fFEIiSDQ/versions/xZP8KbxH/supplementaries-1.20-3.1.42-fabric.jar|cae13cdcfc8f9b6fa2eb1f073fb6de8b4ff9271b29c1677f91f98d77fc0dd8e7
+REQUIRED|Another-Furniture-3.0.4.jar|https://cdn.modrinth.com/data/ulloLmqG/versions/78cQDrFi/another_furniture-fabric-1.20.1-3.0.4.jar|681855f12817ab53dc4e63e679b85a72c13f83505116c446a3edd148a4e47800
+REQUIRED|Gamma-Utils-1.7.16-mc1.20.1.jar|https://cdn.modrinth.com/data/wdLuzzEP/versions/qCrk9Btw/Gamma-Utils-1.7.16-mc1.20.1.jar|b175500f34b5cb585c6adeda24934b2b6b1ea7c690e41f4c117561d8d0f7ea11
+# ###   END   ###
