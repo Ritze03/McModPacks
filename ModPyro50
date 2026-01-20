@@ -1,6 +1,6 @@
 # Category | ModName | DownloadURL | SHA256
 
-# ### Update 20.01.2026
+# --- Change 20.01.2026 --- #
 # Updates
 REMOVE|mcw-furniture-3.3.0-mc1.20.1fabric.jar||
 REMOVE|mcw-fences-1.2.0-1.20.1fabric.jar||
@@ -27,4 +27,4 @@ REQUIRED|Fusion-1.2.12.jar|https://cdn.modrinth.com/data/p19vrgc2/versions/uCMQt
 REQUIRED|Supplementaries-1.20.1.jar|https://cdn.modrinth.com/data/fFEIiSDQ/versions/xZP8KbxH/supplementaries-1.20-3.1.42-fabric.jar|cae13cdcfc8f9b6fa2eb1f073fb6de8b4ff9271b29c1677f91f98d77fc0dd8e7
 REQUIRED|Another-Furniture-3.0.4.jar|https://cdn.modrinth.com/data/ulloLmqG/versions/78cQDrFi/another_furniture-fabric-1.20.1-3.0.4.jar|681855f12817ab53dc4e63e679b85a72c13f83505116c446a3edd148a4e47800
 REQUIRED|Gamma-Utils-1.7.16-mc1.20.1.jar|https://cdn.modrinth.com/data/wdLuzzEP/versions/qCrk9Btw/Gamma-Utils-1.7.16-mc1.20.1.jar|b175500f34b5cb585c6adeda24934b2b6b1ea7c690e41f4c117561d8d0f7ea11
-# ###   END   ###
+# ---------- END ---------- #
