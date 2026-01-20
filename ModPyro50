@@ -31,6 +31,7 @@ REQUIRED|Gamma-Utils-1.7.16-mc1.20.1.jar|https://cdn.modrinth.com/data/wdLuzzEP/
 
 # ----- Change 20.01.2026 ----- #
 
-REQUIRED|rrls-4.0.6.1+mc1.20.1-fabric.jar|https://cdn.modrinth.com/data/ZP7xHXtw/versions/VHNE9K3D/rrls-4.0.6.1%2Bmc1.20.1-fabric.jar|da477c897a8bc0e080aa1e00b813c1d4bba26af80be2dbda10afd12a0ca40115
+REMOVE|rrls-4.0.6.1+mc1.20.1-fabric.jar||
 
 # ------------ END ------------ #
+
