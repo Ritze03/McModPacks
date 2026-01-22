@@ -29,8 +29,20 @@ REQUIRED|Another-Furniture-3.0.4.jar|https://cdn.modrinth.com/data/ulloLmqG/vers
 REQUIRED|Gamma-Utils-1.7.16-mc1.20.1.jar|https://cdn.modrinth.com/data/wdLuzzEP/versions/qCrk9Btw/Gamma-Utils-1.7.16-mc1.20.1.jar|b175500f34b5cb585c6adeda24934b2b6b1ea7c690e41f4c117561d8d0f7ea11
 # ---------- END ---------- #
 
+
+
 # ----- Change 20.01.2026 ----- #
 
 REQUIRED|rrls-4.0.6.1+mc1.20.1-fabric.jar|https://cdn.modrinth.com/data/ZP7xHXtw/versions/VHNE9K3D/rrls-4.0.6.1%2Bmc1.20.1-fabric.jar|da477c897a8bc0e080aa1e00b813c1d4bba26af80be2dbda10afd12a0ca40115
 
 # ------------ END ------------ #
+
+
+
+# ----- Change 22.01.2026 ----- #
+
+REQUIRED|PipePlus-1.20.1-1.1.4-fix.1.jar|https://cdn.modrinth.com/data/zSS7GIKK/versions/1FIyOu3S/PipePlus-1.20.1-1.1.4-fix.1.jar|2fca69c6215b0eaf61bf73ebefe90efba5fe8801d7951d61ec709bc6886b60be
+REQUIRED|simplepipes-all-0.11.0-pre.2.jar|https://mediafilez.forgecdn.net/files/4614/948/simplepipes-all-0.11.0-pre.2.jar|e221bef412910bab9322e14492f376e2a93bcb58b9b4cc198ef8f224cde51192
+
+# ------------ END ------------ #
+
