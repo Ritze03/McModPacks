@@ -46,3 +46,13 @@ REQUIRED|simplepipes-all-0.11.0-pre.2.jar|https://mediafilez.forgecdn.net/files/
 
 # ------------ END ------------ #
 
+
+
+# ----- Change 25.01.2026 ----- #
+
+REQUIRED|Lampcrafting1.0.5_fabric_minecraft1.20.1.jar|https://cdn.modrinth.com/data/Ec2eBEYf/versions/3NPYCIz8/Lampcrafting1.0.5_fabric_minecraft1.20.1.jar|b2a26892f1214c42d267d663d2ae967f8ac199dc95932438dead3255c42435df
+REQUIRED|led-1.6.0.jar|https://cdn.modrinth.com/data/nrekn9hP/versions/ax1Oy3Bj/led-1.6.0.jar|128feaa0813c6da22b493b1f7e86157ee41c453ab597ce5cfd754d2d354f0fc5
+REQUIRED|Chroma Lights v1.0 - 1.20.1.jar|https://cdn.modrinth.com/data/XgOc2WoQ/versions/oldvwOHj/Chroma%20Lights%20v1.0%20-%201.20.1.jar|cefdac8919c55edfaa3b690b20f2683585450363164518ca837514f05062ed01
+REQUIRED|modern-lights-2.5.0+[1.20-1.20.4]-sources.jar|https://cdn.modrinth.com/data/K3oeBO7O/versions/chMskrKw/modern-lights-2.5.0%2B%5B1.20-1.20.4%5D-sources.jar|8520092e893f7878577bc0a9f26f0fa9b0fca31468bbda576b50e97c96b23916
+
+# ------------ END ------------ #
