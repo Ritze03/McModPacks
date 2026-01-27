@@ -61,6 +61,7 @@ REMOVE|modern-lights-2.5.0+[1.20-1.20.4]-sources.jar||
 
 # ----- Change 27.01.2026 ----- #
 
-REQUIRED|robinsunlimitedpackets-1.0.0-1.20.x.jar|https://cdn.modrinth.com/data/n6LuQlXe/versions/21hcbfBf/robinsunlimitedpackets-1.0.0-1.20.x.jar|2270c3cb39641f7e0bf824070f68990ae4d9479611fbadf81a34431f72a7f4bf
+REQUIRED|packetfixer-3.3.1-1.18-1.20.4-merged.jar|https://cdn.modrinth.com/data/c7m1mi73/versions/96y8nmkX/packetfixer-3.3.1-1.18-1.20.4-merged.jar|4f641e4e204315a55b3f5a33e3039076ba08c95b68ac9280ea0081fb27470c13
+REMOVE|robinsunlimitedpackets-1.0.0-1.20.x.jar|https://cdn.modrinth.com/data/n6LuQlXe/versions/21hcbfBf/robinsunlimitedpackets-1.0.0-1.20.x.jar|2270c3cb39641f7e0bf824070f68990ae4d9479611fbadf81a34431f72a7f4bf
 
 # ------------ END ------------ #
